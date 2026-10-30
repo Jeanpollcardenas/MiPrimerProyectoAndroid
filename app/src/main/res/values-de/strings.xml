@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mein erstes Android-Projekt</string>
+    <string name="welcome_title">Willkommen</string>
+    <string name="entry_label">Betreten</string>
+    <string name="entry_confirmation">Willkommen in der App!</string>
+    <string name="select_language">Sprache auswählen</string>
+    <string-array name="language_names">
+        <item>Spanisch</item>
+        <item>Englisch</item>
+        <item>Französisch</item>
+        <item>Deutsch</item>
+    </string-array>
+    <string-array name="language_tags">
+        <item>es</item>
+        <item>en</item>
+        <item>fr</item>
+        <item>de</item>
+    </string-array>
+</resources>
